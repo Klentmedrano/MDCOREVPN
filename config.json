@@ -1,12 +1,11 @@
 {
 "newVersion": "1.0.1",
-"app.mediafire": "https://www.mediafire.com/file/efpa6ke96fly7gd/Meta_Shield_vpn1.3.apk/file",
-"versionNotes":
+"apkUrl": "https://www.mediafire.com/file/efpa6ke96fly7gd/Meta_Shield_vpn1.3.apk/file",
+"versionNotes":"
 • Optimize UI Interface
 • Fixed Minor Bugs
 • Added In App Update API
-• change Ip (Location)
 • Add + Time fast Claim
-Dont forget to rate us 5 Star⭐
+  Dont forget to rate us 5 Star⭐
 "
 }
